@@ -1,0 +1,19 @@
+.grid-item {
+    /* width: 284px;
+    height: 213px; */
+    width: 100%;
+}
+@media screen and (max-width: 1024px) {
+} 
+@media screen and (max-width: 768px) {
+     /* .grid-item {
+        width: 352px;
+        height: 264px;
+    } */
+}
+@media screen and (max-width: 425px) {
+    .grid-item {
+        width: 288px;
+        height: 216px;
+    }
+}
