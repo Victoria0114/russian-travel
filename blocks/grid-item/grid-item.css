@@ -1,6 +1,4 @@
 .grid-item {
-    /* width: 284px;
-    height: 213px; */
     width: 100%;
 }
 @media screen and (max-width: 1024px) {

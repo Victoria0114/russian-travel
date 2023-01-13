@@ -1,6 +1,5 @@
 .footer{
     max-width: 1184px;
-    min-height: 18px;
     margin: 0 auto 24px;
     display: flex;
     justify-content: space-between;
@@ -18,7 +17,6 @@
 @media screen and (max-width: 710px) {
     .footer {
         max-width: 186px;
-        min-height: 310px;
         margin: 0 118px 24px 16px;
         display: flex;
         flex-direction: column;
@@ -28,7 +26,6 @@
 @media screen and (max-width: 425px) {
     .footer{
         max-width: 186px;
-        min-height: 310px;
         margin: 0 118px 24px 16px;
         display: flex;
         flex-direction: column;

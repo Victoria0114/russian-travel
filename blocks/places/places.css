@@ -1,6 +1,5 @@
 .places {
     max-width: 984px;
-    min-height: 3392px;
     margin: 0 auto;
     
 }
@@ -13,7 +12,6 @@
 @media screen and (max-width: 768px) {
     .places {
         max-width: 720px;
-        min-height: 2808px;
         /* margin: 0 24px; */
     }
 }
