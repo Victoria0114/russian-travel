@@ -1,37 +1,9 @@
-/* .cover__overlay {
-    
-    min-height: 740px;
-    text-decoration: none;
-    color: #FFFFFF;
-    background-image: url(../../../images/cover-trains.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    opacity: 0.3;
-    display: block;
-    position: relative;
-    z-index: 1;
-    padding: 245px 312px 343px;
-}
-.cover__overlay::before {
-    content: "";
-    background: rgba(42, 44, 47, 0.3);
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: -1;
-}
-.cover__overlay:hover::before{
-    opacity: 0.8;
-} */
-
 .cover__overlay{
     display: block;
     padding: 245px 312px 343px;
     text-decoration: none;
     background: rgba(42, 44, 47, 0.3);
+    position: relative;
 }
 .cover__overlay:hover{
     background: rgba(42, 44, 47, 0.8);

@@ -4,7 +4,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto;
-    gap: 40px 48px;
+    gap: 48px 40px;
     justify-content: center;
 }
 @media screen and (max-width: 1024px) {
@@ -21,7 +21,6 @@
         max-width: 320px;
         margin: 0 auto 50px;
         grid-template-columns: 1fr;
-        grid-template-rows: auto;
         row-gap: 32px;
     }
 }

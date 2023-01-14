@@ -8,6 +8,10 @@
 @media screen and (max-width: 1024px) {
 } 
 @media screen and (max-width: 768px) {
+    .intro__text{
+        max-width: 720px;
+        margin: 40px auto 33px;
+    }
 }
 @media screen and (max-width: 425px) {
     .intro__text{
