@@ -1,6 +1,6 @@
 .cover__overlay{
     display: block;
-    padding: 245px 312px 343px;
+    padding: 245px 312px 245px;
     text-decoration: none;
     background: rgba(42, 44, 47, 0.3);
     position: relative;
@@ -11,18 +11,18 @@
 @media screen and (max-width: 1024px) {
     .cover__overlay{
         max-width: 1024px;
-        padding: 195px 232px 293px;
+        padding: 195px 232px 195px;
     }
 } 
 @media screen and (max-width: 768px) {
     .cover__overlay{
         max-width: 768px;
-        padding: 115px 104px 213px;
+        padding: 115px 104px 115px;
     }
 }
 @media screen and (max-width: 425px) {
     .cover__overlay{
         max-width: 320px;
-        padding: 33px 16px 97px;
+        padding: 33px 16px 33px;
     }
 }

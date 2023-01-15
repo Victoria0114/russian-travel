@@ -1,25 +1,5 @@
 .lead__image {
     max-width: 984px;
-    min-height: 615px;
-    /* width: 100%; */
+    width: 100%;
 }
-@media screen and (max-width: 1024px) {
-} 
-@media screen and (max-width: 768px) {
-    .lead__image {
-        max-width: 768px;
-        min-height: 480px;
-    }
-}
-@media screen and (max-width: 710px) {
-    .lead__image {
-        max-width: 425px;
-        min-height: 200px;
-        margin: 0 auto;
-    }
-}
-@media screen and (max-width: 425px) {
-    .lead__image {
-        max-width: 320px;
-    }
-}
+
