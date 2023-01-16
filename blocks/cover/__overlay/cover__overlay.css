@@ -13,6 +13,12 @@
         padding: 195px 232px 195px;
     }
 } 
+@media screen and (max-width: 823px) {
+    .cover__overlay{
+        max-width: 768px;
+        padding: 115px 104px 115px;
+    }
+}
 @media screen and (max-width: 768px) {
     .cover__overlay{
         max-width: 768px;
@@ -21,8 +27,8 @@
 }
 @media screen and (max-width: 569px) {
     .cover__overlay{
-        max-width: 768px;
-        padding: 115px 20px 115px;
+        max-width: 569px;
+        padding: 33px 16px 33px;
     }
 }
 @media screen and (max-width: 425px) {
